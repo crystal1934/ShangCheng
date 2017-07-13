@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:429px;
+  width:443px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -17,7 +17,7 @@
   left:0px;
   top:0px;
   width:10px;
-  height:28px;
+  height:30px;
   background:inherit;
   background-color:rgba(102, 102, 102, 1);
   border:none;
@@ -29,14 +29,14 @@
 #u0 {
   position:absolute;
   left:50px;
-  top:49px;
+  top:50px;
   width:10px;
-  height:28px;
+  height:30px;
 }
 #u1 {
   position:absolute;
   left:2px;
-  top:6px;
+  top:7px;
   width:6px;
   visibility:hidden;
   word-wrap:break-word;
@@ -45,8 +45,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:81px;
-  height:24px;
+  width:113px;
+  height:33px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -57,26 +57,26 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
-  font-size:20px;
+  font-size:28px;
   color:#666666;
 }
 #u2 {
   position:absolute;
-  left:86px;
-  top:49px;
-  width:81px;
-  height:24px;
+  left:100px;
+  top:47px;
+  width:113px;
+  height:33px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
-  font-size:20px;
+  font-size:28px;
   color:#666666;
 }
 #u3 {
   position:absolute;
   left:0px;
   top:0px;
-  width:81px;
+  width:113px;
   white-space:nowrap;
 }
 #u4_div {
@@ -100,7 +100,7 @@
 }
 #u4 {
   position:absolute;
-  left:86px;
+  left:100px;
   top:120px;
   width:199px;
   height:22px;
@@ -138,7 +138,7 @@
 }
 #u6 {
   position:absolute;
-  left:86px;
+  left:100px;
   top:160px;
   width:343px;
   height:22px;
